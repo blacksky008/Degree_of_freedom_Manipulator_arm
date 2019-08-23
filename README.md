@@ -1,5 +1,5 @@
-# Degree_of_freedom_Manipulator_arm四自由度机械手臂
-##目的
+# 四自由度机械手臂Degree_of_freedom_Manipulator_arm
+## 目的
 1 使用新到的3d打印机制作模型<br>
 2 学习如何通过其他模型控制机械手臂<br>
 3 学习如何设计出电路板并实际制作<br>
